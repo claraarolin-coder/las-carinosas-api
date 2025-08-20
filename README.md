@@ -9,7 +9,7 @@ The purpose of this API is to manage victim and case records using FastAPI and M
 
 Structure of the API
 main.py # Entry point of the API
-database.py # MongoDB connection configuration
+database.py 
 requirements.txt # List of Python dependencies
 
 models
