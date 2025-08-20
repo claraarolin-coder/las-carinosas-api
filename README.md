@@ -1,6 +1,6 @@
 #my-api-victims
 
-The purpose of this API is to allow clients to store, retrieve, and manage victim and case records using FastAPI and MongoDB.  
+The purpose of this API is to manage victim and case records using FastAPI and MongoDB.  
 
 - Programming Language: Python 3.11
 - Web Framework:FastAPI
