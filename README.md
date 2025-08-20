@@ -1,4 +1,5 @@
 #my-api-victims
+Our team is Anaé Akenine, Clara Rolin y Victorien Thomas
 
 The purpose of this API is to manage victim and case records using FastAPI and MongoDB.  
 
